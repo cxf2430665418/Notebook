@@ -2,6 +2,6 @@
 
 本应用主要是为了给那些需要记录笔记，备忘录及一些生活点滴的用户提供便利。但本应由只是实现了基本的笔记本功能，还有很多有待完善的地方。为了安全隐私，我们提供了用户登录注册功能，以便保护用户个人隐私。但是因为时间有限，并没有设置本地缓存用户自动登录功能，这是很多用户不能接受的，所以我们会再今后加以改进。关于用户笔记的保存，我们提供了云存储方案，采用的是第三方Bmob(比目云)提供的API进行存储。关于记笔记的功能，我们没有找到较好的图文并存解决方案，所以起初的设想并没有实现。为考虑有些用户想要记录一些图片上的内容而又不想花时间用双手输入，所以我们特意写入了一个图像识别功能，由于调用第三方API数据集受限，该功能只能简单识别图片中的文字，所以其实实用性并不是很高，仍有待后续完善
 
-![image](https://github.com/cxf2430665418/Face-detection/blob/master/images/4.png)
+![image](https://github.com/cxf2430665418/Notebook/blob/master/images/4.png)
 
-![image](https://github.com/cxf2430665418/Face-detection/blob/master/images/5.png)
+![image](https://github.com/cxf2430665418/Notebook/blob/master/images/5.png)
